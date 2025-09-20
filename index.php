@@ -3,7 +3,7 @@
 <head>
   <title>Log Analyzer</title>
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-  <link rel="stylesheet" href="css/style.css" type="text/css" />
+  <link rel="stylesheet" href="style.css" type="text/css" />
 </head>
 
 <body style="background-color:#EBEBEB">
@@ -92,7 +92,7 @@ function resetExclude() {
 
 <tr><td colspan='10' style="height:1px"><div id="WaitDialog" style="text-align: center">
 	<div style="margin-top: 10px; color: red">
-		<img	src="css/rainbow_spinner.gif"/><br>
+		<img	src="rainbow_spinner.gif"/><br>
 		<b>Please wait while the log file is parsed. Click <a href="reset.php">HERE</a> to cancel and try again.</b>
 	</div>
 </div>
